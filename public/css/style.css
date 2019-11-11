@@ -1,0 +1,32 @@
+body {
+    background:#E6E6FA  ;
+}
+.map {
+    margin: 10px;
+}
+#btn, #btn_1 {
+    margin: 0 0 0 50px;
+    float: right;
+}
+.form-card {
+    margin: 0 auto;
+}
+.participaint-card {
+    margin: 20px auto;
+}
+.home-card {
+    margin-top: 10px;
+}
+
+.home-card h4 {
+    padding-top: 5px;
+}
+.share-btn {
+    margin: 5px;
+}
+.was-validated .country:valid {
+    background-image: none;
+}
+.was-validated .country:invalid {
+    background-image: none;
+}

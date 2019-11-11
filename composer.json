@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "3.4.2"
+    }
+}
